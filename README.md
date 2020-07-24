@@ -12,10 +12,10 @@ I am Frontend Developer from Warsaw. I really enjoy programming in ReactJS.
 <br/>Languages & tools used:  NextJS • ReactJS • NodeJS • styled-components • jszip • downloadjs
 
 - [SpaceX/vhynot](https://vhynot.netlify.app/) 
-<br/>Languages & tools used:  ReactJS + CRA • sass • Formik • Leaflet • React Router • [SpaceX API](https://github.com/r-spacex/SpaceX-API)
+<br/>Languages & tools used:  ReactJS + CRA • sass • Formik • Leaflet • React Router • ContextAPI • [SpaceX API](https://github.com/r-spacex/SpaceX-API)
 
 - [PlayTabs/vhynot](https://playtabs.netlify.app/) 
-<br/>Languages & tools used:  ReactJS + CRA • sass • [Songsteer API](https://www.songsterr.com/a/wa/api)
+<br/>Languages & tools used:  ReactJS + CRA • sass • ContextAPI • [Songsteer API](https://www.songsterr.com/a/wa/api)
 
 <br/>
 
