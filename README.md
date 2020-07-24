@@ -19,7 +19,7 @@ I am Frontend Developer from Warsaw. I really enjoy programming in ReactJS.
 
 <br/>
 
-<a href="www.linkedin.com/in/adam-kilis">
+<a href="https://linkedin.com/in/adam-kilis">
   <img alt="AKilisLinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
